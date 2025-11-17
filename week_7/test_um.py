@@ -1,6 +1,7 @@
 import pytest
 from week_7.um import count
 
+
 def test_one_um():
     assert count("um") == 1
 
