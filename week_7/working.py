@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import re
 import sys
 
@@ -41,6 +40,3 @@ def convert(s):
 
 if __name__ == "__main__":
     main()
-=======
-
->>>>>>> 15213adae2747e6b1a69cf11c96ad5a90f2321dc
